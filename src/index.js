@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import {PlanOutComponent} from './planout';
+// import {PlanOutComponent} from './planout';
 
 import App from './App';
 
